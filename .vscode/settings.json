@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\super\\OneDrive\\Escritorio\\Librerias\\mysql-connector-j-8.0.31.jar",
+            "c:\\Users\\super\\Downloads\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\EstudianteDAM204\\Downloads\\org.apache.commons.io.jar.zip"
+        ]
+    }
+}
